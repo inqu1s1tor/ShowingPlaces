@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ShowingPlaces</string>
+    <string name="nearest_places_text">Nearest places</string>
+    <string name="input_cover_area_set_hint">Input cover area (km)</string>
+    <string name="ok_button_setting_text">OK</string>
+    <string name="settings_title">Settings</string>
+    <string name="wait_string">Please wait...</string>
+    <string name="show_on_the_map_text_">Show on the map</string>
+    <string-array name="tabs_name">
+        <item>Nearest places</item>
+        <item>Map</item>
+    </string-array>
+</resources>
